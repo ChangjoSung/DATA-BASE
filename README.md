@@ -1,6 +1,7 @@
 # GO GAME CHART - Web Application  
 
->GO GAME CHART is a web application designed to provide information about various games. 
+>GO GAME CHART is a web application designed to provide information about various games.
+<br> 
 
 
 ![lightmode](https://user-images.githubusercontent.com/92200057/172000642-98ed21f9-2bfd-426b-b1d8-b85cafa1b5ac.JPG)
