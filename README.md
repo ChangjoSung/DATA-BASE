@@ -20,9 +20,6 @@ https://www.youtube.com/watch?v=hLiMH50w0fQ
  * Game Information Web Application 
  * Providing chart information using php
 
-## 🚀 HOW TO 
-![How to](https://user-images.githubusercontent.com/92200057/172000681-7fee749a-db99-4cf2-9576-d4cb24aab4b8.JPG)
-
 ## ✔ Acknowledgments
  The project was created as a personal assignment in a database subject.
 
