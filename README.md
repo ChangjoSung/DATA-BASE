@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=hLiMH50w0fQ
 
 ## ⚙ Development Environment
  * OS : Windows 10
- * Tool : HTML, PHP, Maria DB
+ * Tool : HTML, javascript, PHP, Maria DB
  
 ## 🚀 Feature
  * Web Application 
